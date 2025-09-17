@@ -11,6 +11,20 @@ h1 {
 }
 h2 {
    font-family: 'Times New Roman', Times, serif, Helvetica, sans-serif;
+   background-color: cornflowerblue;
 
 }
+h3 {
+   font-family: 'Times New Roman', Times, serif, Helvetica, sans-serif;
+   color:black;
+   background-color: cornflowerblue;
+   font-size:140%;
+}
+h4 {
+ font-family: 'Times New Roman', Times, serif, Helvetica, sans-serif;
+ color:black;
+ background-color: cornflowerblue;
+ font-size:140%;
+}
+
 
